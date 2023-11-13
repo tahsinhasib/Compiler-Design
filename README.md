@@ -1,4 +1,4 @@
-# Compiler-Design-G
+# Compiler Design G
 <img src ="https://img.shields.io/github/issues/tahsinhasib/Compiler-Design.svg"> <img src = "https://img.shields.io/github/stars/tahsinhasib/Compiler-Design.svg"> <img src= "https://img.shields.io/badge/Maintained%3F-yes-green.svg"> 
 
 <div>
